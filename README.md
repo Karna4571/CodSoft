@@ -15,6 +15,8 @@ This project aims to predict movie genres based on plot summaries using machine 
 
 ## Dataset
 
+https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
+
 The dataset used for this project consists of movie plot summaries labeled with genres. The training data (`train_data.csv`) is used to train the model, while the test data (`test_data.csv`) is used to evaluate the model's performance on unseen data.
 
 ## Technologies Used
@@ -32,7 +34,8 @@ The dataset used for this project consists of movie plot summaries labeled with 
 This project aims to build a machine learning model for classifying emails as spam or not spam using natural language processing techniques.
 
 ## Dataset
-The dataset used for training and testing the model is sourced from [source_name/link], consisting of [number_of_samples] samples with [number_of_features] features.
+
+https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 ## Technologies Used
 - Python
@@ -68,7 +71,9 @@ To run the project:
 This project focuses on predicting customer churn using machine learning techniques, aiming to help businesses retain customers more effectively.
 
 ## Dataset
-The dataset used for training and testing the model is sourced from [source_name/link], containing [number_of_samples] samples with [number_of_features] features related to customer behavior and demographics.
+
+https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction
+
 
 ## Technologies Used
 - Python
